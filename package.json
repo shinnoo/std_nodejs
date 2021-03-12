@@ -1,0 +1,15 @@
+{
+  "name": "price",
+  "version": "1.0.0",
+  "description": "Pricing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "trandung",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "latest",
+    "request": "latest"
+  }
+}
